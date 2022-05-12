@@ -9,4 +9,4 @@ jiejieTop/jiejieTop is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![jiejietop](https://img.shields.io/github/stars/jiejietop?style=social)](https://github.com/jiejieTop)
+[![jiejietop](https://img.shields.io/github/stars/jiejietop?style=for-the-badge)](https://github.com/jiejieTop)
