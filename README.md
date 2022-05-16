@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @jiejieTop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jiejieTop/jiejieTop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋
 
-[![jiejietop](https://img.shields.io/github/stars/jiejietop?style=for-the-badge)](https://github.com/jiejieTop)
+My name is jiejie
+
+- 🌱 I’m currently learning Linux kernel and autodrive
+
+ [![liexusong's github stats](https://github-readme-stats.vercel.app/api?username=jiejietop)](https://github.com/jiejietop)
+
+### Page visitor counter
+
+![visitor counter](https://profile-counter.glitch.me/jiejietop/count.svg)
