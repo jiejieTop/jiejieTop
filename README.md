@@ -3,8 +3,6 @@
 
 My name is jiejie
 
-# 毕业于野火大学
-
 - 🌱 I’m currently learning Linux kernel and autodrive
 
  [![liexusong's github stats](https://github-readme-stats.vercel.app/api?username=jiejietop)](https://github.com/jiejietop)
