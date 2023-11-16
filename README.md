@@ -4,6 +4,10 @@
 # 智元机器人招聘信息
 官网： [https://www.agibot.com/](https://www.agibot.com/)
 
+# 内推联系 
+- 邮箱：jiejietop@gmail.com
+- 微信：yij1799
+
 ## 高级C++软件工程师（上海）
 
 岗位职责：
